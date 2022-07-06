@@ -16,3 +16,4 @@ Codes for STM32 will be marked as "Fx000y", where x stands for the branch of the
   
 ### OpenMV Series
 OV0001.Target Position Feedback
+OV0002.MINST Detection
